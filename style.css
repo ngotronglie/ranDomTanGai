@@ -1,0 +1,29 @@
+body {
+    position: relative;
+    background-image: url('./tai_nguyen/AstonishingPinkBelugawhale-max-1mb.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1,h2 {
+    text-align: center;
+}
+
+p {
+    font-weight: bold;
+    font-size: 35px;
+    margin-left: 10px;
+}
+
+.content,.btn {
+    display: flex;
+    justify-content: center;
+
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    border-radius: 15px;
+    margin-left: 20px;
+}
